@@ -7,9 +7,33 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Login and Register
+![Screenshot (44)](https://user-images.githubusercontent.com/42260108/106385067-60149b80-63f6-11eb-8466-9c4b228394d2.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/42260108/106385069-6276f580-63f6-11eb-8b59-ed4a1b76cb3a.png)
 
-## Screenshort
+## Main page
 ![Screenshot (35)](https://user-images.githubusercontent.com/42260108/106376267-c7612a00-63bb-11eb-82e0-6a1cc5021f10.png)
+
+## Dashboard
+![Screenshot (36)](https://user-images.githubusercontent.com/42260108/106384935-a4536c00-63f5-11eb-9cc6-2e277c8518a7.png)
+
+## Role
+![Screenshot (46)](https://user-images.githubusercontent.com/42260108/106385114-994d0b80-63f6-11eb-814b-7caff641c23a.png)
+
+
+## Users Posts and notification
+![Screenshot (38)](https://user-images.githubusercontent.com/42260108/106384968-dd8bdc00-63f5-11eb-95d5-d702ccedbef7.png)
+
+## User Profile and posts which they have uploaded
+![Screenshot (39)](https://user-images.githubusercontent.com/42260108/106385013-1cba2d00-63f6-11eb-895a-21a667852f8a.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/42260108/106385015-217ee100-63f6-11eb-9220-a15184934905.png)
+
+## Users list
+![Screenshot (41)](https://user-images.githubusercontent.com/42260108/106385038-3ce9ec00-63f6-11eb-8da7-69836054bf2b.png)
+![Screenshot (42)](https://user-images.githubusercontent.com/42260108/106385039-3eb3af80-63f6-11eb-84d1-334162b7284d.png)
+
+## Users register request
+![Screenshot (43)](https://user-images.githubusercontent.com/42260108/106385061-57bc6080-63f6-11eb-9142-97b78a1557ca.png)
 
 
 
