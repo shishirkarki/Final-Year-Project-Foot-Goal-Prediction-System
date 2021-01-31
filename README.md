@@ -9,7 +9,8 @@
 
 
 ## Screenshort
-![Uploading Screenshot (35).png…]()
+![Screenshot (35)](https://user-images.githubusercontent.com/42260108/106376267-c7612a00-63bb-11eb-82e0-6a1cc5021f10.png)
+
 
 
 
